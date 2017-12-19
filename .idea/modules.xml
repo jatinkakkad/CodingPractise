@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CodingPractise.iml" filepath="$PROJECT_DIR$/CodingPractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodingPractise1.iml" filepath="$PROJECT_DIR$/.idea/modules/CodingPractise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodingPractise1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CodingPractise1_main.iml" group="CodingPractise1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodingPractise1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CodingPractise1_test.iml" group="CodingPractise1" />
     </modules>
   </component>
 </project>
